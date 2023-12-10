@@ -17,6 +17,6 @@
 
 # Apresentação
 
-- Fantasmas(explica pra noix ana)
+- No tema 1, fizemos um fantasma, utlizamos escultura, superfície de subdivisão, iluminação e textura de imagem.
 
 - Para obtenção dos pontos extras da tarefa 4, fizemos a animação de um personagem usando os métodos fornecidos pelo material de estudo, colocando em prática tudo aquilo que foi passado em aula, utilizamos texturas, iluminação, shading, animação e manipulação de cores.
