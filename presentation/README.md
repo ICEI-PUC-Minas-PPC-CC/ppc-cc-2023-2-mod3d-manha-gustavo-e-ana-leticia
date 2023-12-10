@@ -1,3 +1,3 @@
-# Apresentação da Solução
+OBS. ----- O video da apresentação ultrapaça o limite de 25MB, por este motivo, enviarei o link do Drive para download -----
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+https://drive.google.com/file/d/1SQYrEFJSh0PVESqO9-15H_P0ca5a0D5B/view?usp=drive_link
